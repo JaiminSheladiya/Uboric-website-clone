@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.zoom {
+  transition: transform .5s; /* Animation */
+  margin: 0 auto;
+
+}
+
+.zoom:hover {
+  transform: scale(1.02); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+.shadow{
+  -webkit-box-shadow: 0px 7px 26px 0px rgba(0,24,235,0.64);
+  -moz-box-shadow: 0px 7px 26px 0px rgba(0,24,235,0.64);
+  box-shadow: 0px 7px 26px 0px rgba(0,24,235,0.64);
+}

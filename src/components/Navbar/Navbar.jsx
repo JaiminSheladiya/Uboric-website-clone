@@ -4,6 +4,7 @@ import {IoSearch} from 'react-icons/io5'
 import {IoMdArrowDropdown } from 'react-icons/io'
 import {FaUserCircle , FaCartPlus} from 'react-icons/fa'
 import {Link} from 'react-router-dom'
+import CategoriesBtn from './CategoriesBtn'
 export default function Navbar() {
  
   return (
@@ -24,7 +25,8 @@ export default function Navbar() {
 {/* Categories flex */}
     <Flex   justify='space-between' w='50%' m='auto' mt='10px' fontWeight='600'>
       <Box _hover={{ bg: 'black' , color : 'white' }} p='10px'><Link  to='/'>Home</Link></Box>
-      <Flex  _hover={{ bg: 'black' , color : 'white' }} p='10px' alignItems='center'>Categories <IoMdArrowDropdown style={{marginTop : '5px'}} /></Flex>
+      {/* <Flex  _hover={{ bg: 'black' , color : 'white' }} p='10px' alignItems='center'><CategoriesBtn /> <IoMdArrowDropdown style={{marginTop : '5px'}} /></Flex> */}
+      <CategoriesBtn />
       <Box _hover={{ bg: 'black' , color : 'white' }} p='10px'><Link to='/customerlogin'  >Customer/Guest login</Link></Box>
       <Box _hover={{ bg: 'black' , color : 'white' }} p='10px'><Link to='/bulkorder'>Merchant/Bulk Order</Link></Box>
       <Box _hover={{ bg: 'black' , color : 'white' }} p='10px'><Link to='/becomeseller'>Become A Seller</Link></Box>

@@ -6,12 +6,14 @@ import ZoomTwo from './ZoomTwo'
 import HomeCards from './HomeCards'
 import { HomeCardData } from '../../data'
 import HomeBottom from './HomeBottom'
+import SlidingWindow from './SlidingWindow'
 export default function HomeMain() {
 
   return (
     <div>
         {/* Sliding WIndow */}
-        <Image h={500} w='100%' src='https://passionspoon.com/wp-content/uploads/2022/07/vibrant-vegetables-shrimp-skewers-scaled.jpg' />
+        <SlidingWindow />
+        {/* <Image h={500} w='100%' src='https://passionspoon.com/wp-content/uploads/2022/07/vibrant-vegetables-shrimp-skewers-scaled.jpg' /> */}
         <Heading heading={'KITCHEN WARE'} logo={'https://www.uboric.com/wp-content/uploads/elementor/thumbs/kitchen-ware-heading-pkx8tvxfmbbsdlrzrk3iwlbxruc7cn5sq339xkx9cg.png'} />
         <ZoomFlex />
         <img className=' m-auto mt-20' src='https://www.uboric.com/wp-content/uploads/2020/08/Uboric-1.jpg' />
@@ -28,7 +30,7 @@ export default function HomeMain() {
         <HomeCards imgUrl={HomeCardData.spicesCard} />
 
         <Heading heading={'FOOT WEAR'} logo='https://www.uboric.com/wp-content/uploads/elementor/thumbs/shoes-icon-left-e1605175515419-pkxdaq391ri2zk5gl2xdk07d1dl8g5oc65qa62g4nk.png' />
-        <Image className='zoom' mb={10} w='97%' src='https://www.uboric.com/wp-content/uploads/elementor/thumbs/men-fashion-pf2rgkwglk7z47uh031vpxcshl64adc389ivxapmss.jpg' />
+        <Image className='zoom' mb={10} mt='25px' w='97%' src='https://www.uboric.com/wp-content/uploads/elementor/thumbs/men-fashion-pf2rgkwglk7z47uh031vpxcshl64adc389ivxapmss.jpg' />
         <HomeCards imgUrl={HomeCardData.shoesCard} />
 
         <HomeBottom />

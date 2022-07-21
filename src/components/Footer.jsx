@@ -12,7 +12,7 @@ export default function Footer() {
         </button>
     </div>
     <div className=' bg-black h-96 pt-20'>
-        <img className=' m-auto h-14' src='https://www.uboric.com/wp-content/uploads/2020/08/google-play1.png'></img>
+        <img className=' m-auto h-14 w-40' src='https://www.uboric.com/wp-content/uploads/2020/08/google-play1.png'></img>
         <div className='flex mt-5 text-white text-lg w-max gap-10 m-auto' >
         <h1>About Us</h1>
         <h1>Contact</h1>

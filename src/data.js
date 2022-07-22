@@ -390,7 +390,7 @@ export const products = [
     sPrice: '1270' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/g1-economic-lock-9287295.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/economic_lock_keys.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 42,
@@ -399,7 +399,7 @@ export const products = [
     sPrice: '852' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/61Gs6IhbOkL._SL1200_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/51SSnuE1lL._SL1000_-400x400.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 43,
@@ -408,7 +408,7 @@ export const products = [
     sPrice: '2465' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/41fTr5CiUVS._SL1000_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/71QdjF36OSS._SL1500_-150x150.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 44,
@@ -417,7 +417,7 @@ export const products = [
     sPrice: '1043' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/51WwygoTDPS._SL1000_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/41RjQPiWT7S._SL1000_-400x400.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 45,
@@ -426,7 +426,7 @@ export const products = [
     sPrice: '1149' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/51ShGPinoNS._SL1000_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/61EvIzVlWeS._SL1500_-150x150.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 46,
@@ -435,7 +435,7 @@ export const products = [
     sPrice: '568' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/51UFlUo6eNS._SL1000_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/41Vv1sbhUgS._SL1000_-400x400.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 47,
@@ -444,7 +444,7 @@ export const products = [
     sPrice: '799' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/41Usq4gIzXS._SL1000_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/41AShpVODAS._SL1000_-400x400.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 48,
@@ -453,7 +453,7 @@ export const products = [
     sPrice: '' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/01/61HRxg1mTQL._SL1200_-400x300.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/01/51Jirqa6JQL._SL1000_-400x400.jpg',
-    category : 'Bathroom Accessories'
+    category : 'bathroom'
   },
   {
     id : 49,
@@ -462,7 +462,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/07/josh-f-28th-march-201980910_jpg.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/07/josh-f-28th-march-201980899_jpg-400x400.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 50,
@@ -471,7 +471,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/07/il_794xN.3044855723_fxqv_jpg-400x532.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/07/il_794xN.2997142040_rxrm_jpg-150x150.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 51,
@@ -480,7 +480,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.11-AM-1.jpeg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.08-AM-1-150x150.jpeg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 52,
@@ -489,7 +489,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.48-AM.jpeg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.08-AM.jpeg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 53,
@@ -498,7 +498,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/07/SNITCH-JUNE1492_1800x1800_jpg-400x600.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/07/SNITCH-JUNE1503_1800x1800_jpg1-150x150.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 54,
@@ -507,7 +507,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/07/Snitch_March22_3462_1800x1800_jpg-400x600.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/07/Snitch_March22_3432_1800x1800_jpg-150x150.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 55,
@@ -516,7 +516,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.47-AM1-400x398.jpeg', 
     img2: '',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 56,
@@ -525,7 +525,7 @@ export const products = [
     sPrice: '1199' ,  
     img1: 'https://www.uboric.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-15-at-11.56.47-AM.jpeg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/06/l-men-regular-fit-printed-green-striped-casual-shirt-original-imaga4fhdrh7gg88.jpeg-150x150.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 57,
@@ -534,7 +534,7 @@ export const products = [
     sPrice: '1199' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2022/07/JUNE-30182_1800x1800_jpg-400x600.jpg', 
     img2: 'https://www.uboric.com/wp-content/uploads/2022/07/JUNE-30200_1800x1800_jpg-150x150.jpg',
-  category : 'Clothing'
+  category : 'clothing'
   },
   {
     id : 58,
@@ -543,7 +543,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Veg-Kadai.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/17-Veg-Kadai-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 59,
@@ -552,7 +552,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Chicken-Briyani.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/3-Chicken-Briyani-B_result-1-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 60,
@@ -561,7 +561,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/4-Chicken-Masala-F_result.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/4-Chicken-Masala-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 61,
@@ -570,7 +570,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Dal-Makhani.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/5-Dal-Makhani-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 62,
@@ -579,7 +579,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Dum-Aaloo.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/6-Dum-Aaloo-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 63,
@@ -588,7 +588,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Kaju-Curry.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/7-Kaju-Curry-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 64,
@@ -597,7 +597,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Kashmiri-Dum-Aaloo.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/8-Kashmiri-Dum-Aaloo-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 65,
@@ -606,7 +606,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Matter-Paneer-Masala.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/9-Matter-Paneer-Masala-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 66,
@@ -615,7 +615,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Palak-Paneer-Masala.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/10-Palak-Paneer-Masala-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 67,
@@ -624,7 +624,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/Paneer-Bhurji-Masala.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/11-Paneer-Bhurji-Masala-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 68,
@@ -633,7 +633,7 @@ export const products = [
     sPrice: '900' , 
     img1: 'https://www.uboric.com/wp-content/uploads/2021/08/12-Pav-Bhaji-Masala-F_result.png', 
     img2: 'https://www.uboric.com/wp-content/uploads/2021/08/12-Pav-Bhaji-Masala-B_result-150x150.png',
-    category : 'Spices'
+    category : 'spices'
   },
   {
     id : 1,

@@ -636,101 +636,154 @@ export const products = [
     category : 'spices'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 69,
+    name : 'WOODLAND MEN’S CASUAL/PARTY SHOES IN TAN...', 
+    price: '3695',
+    sPrice: '6500' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/71QhNy9CkiL._UL1500_-400x177.png', 
+    img2: 'https://www.uboric.com/wp-content/uploads/2021/01/715Lt83VEHL._UX695_-400x217.png',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 70,
+    name : 'ID MEN’S CASUAL / PARTY SHOES...', 
+    price: '2585',
+    sPrice: '2800' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/id2071black-5-id-black-original-imafp65fhcqmbgkg-400x157.png', 
+    img2: 'https://www.uboric.com/wp-content/uploads/2021/01/id2071black-5-id-black-original-imafp65fhcqmbgkg-400x157.png',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 71,
+    name : '1499', 
+    price: '2100',
+    sPrice: 'GARMONT MEN’S CASUAL/PARTY SHOES IN BLUE...' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_1011_result-400x265.jpg', 
+    img2: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_1012_result-400x265.jpg',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 72,
+    name : 'GARMONT MEN’S CASUAL/PARTY SHOES IN BROWN...', 
+    price: '1299',
+    sPrice: '1500' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/DSC_0695_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 73,
+    name : 'GARMONT MEN’S CASUAL/PARTY SHOES IN BROWN...', 
+    price: '1499',
+    sPrice: '1700' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_1007_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 74,
+    name : 'LEE COOPER MEN’S LOAFERS SHOES IN...', 
+    price: '2699',
+    sPrice: '3100' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/DSC_0687_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 75,
+    name : 'HUSH PUPPIES MEN’S / CASUAL PARTY...', 
+    price: '1799',
+    sPrice: '2990' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/DSC_0638_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 76,
+    name : 'WOODS MEN’S / CASUAL PARTY SHOES...', 
+    price: '1674',
+    sPrice: '3295' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_0943_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
 
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 77,
+    name : 'WOODS MEN’S / CASUAL PARTY SHOES...', 
+    price: '1474',
+    sPrice: '3495' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_0911_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 78,
+    name : 'WOODS MEN’S / CASUAL PARTY SHOES...', 
+    price: '2995',
+    sPrice: '1497' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/02/DSC_0943_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 79,
+    name : 'LEE COOPER MEN’S CASUAL/PARTY SHOES IN...', 
+    price: '2779',
+    sPrice: '2999' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/DSC_0646_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
 
   {
-    id : 1,
-    name : '', 
-    price: '',
-    sPrice: '' , 
-    img1: '', 
-    img2: ''
+    id : 80,
+    name : 'LEE-COOPER MEN’S / CASUAL LOAFER IN..', 
+    price: '2699',
+    sPrice: '2999' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2021/01/DSC_0622_result-400x265.jpg', 
+    img2: '',
+    category : 'footwear'
   },
+  {
+    id : 81,
+    name : 'AVERY MEN’S CASUAL/PARTY SHOES in BLACK', 
+    price: '1149',
+    sPrice: '1499' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2019/12/19-11017-400x267.png', 
+    img2: '',
+    category : 'footwear'
+  },
+  {
+    id : 82,
+    name : 'AVERY MEN’S CASUAL/PARTY SHOES in BROWN', 
+    price: '1399',
+    sPrice: '2400' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2019/12/19-11027-400x267.png', 
+    img2: '',
+    category : 'footwear'
+  },
+  
+  {
+    id : 83,
+    name : 'AVERY MEN’S CASUAL/PARTY SHOES in BROWN', 
+    price: '780',
+    sPrice: '1489' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2019/12/19-11058-400x267.png', 
+    img2: '',
+    category : 'footwear'
+  },
+  
+  {
+    id : 84,
+    name : 'AVERY MEN’S LOAFERS in TAN', 
+    price: '450',
+    sPrice: '1700' , 
+    img1: 'https://www.uboric.com/wp-content/uploads/2019/12/19-11063-400x267.png', 
+    img2: '',
+    category : 'footwear'
+  },
+
+  
+  
 ]

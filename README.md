@@ -12,9 +12,9 @@ This is an e-commerce website clone that we made during the construct week at Ma
 ## *Tech stacks* :-
 <div style='display : flex ; gap : 5px ; margin-bottom : 50px'>
 
-<img src='https://cdn-icons-png.flaticon.com/128/5968/5968267.png' style='height : 45px ;  '>
+<img src='https://cdn-icons-png.flaticon.com/128/174/174854.png' style='height : 45px ;  '>
 
-<img src='https://cdn-icons-png.flaticon.com/128/888/888847.png ' style='height : 45px ;  '>
+<img src='https://cdn-icons-png.flaticon.com/128/732/732190.png' style='height : 45px ;  '>
 
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' style='height : 45px ;  '>
 

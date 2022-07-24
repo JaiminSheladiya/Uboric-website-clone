@@ -2,12 +2,16 @@
 
 <img src='https://www.uboric.com/wp-content/uploads/2021/04/uboric.svg' style='height : 200px;margin-bottom : 50px'>
 
-## Unit 4 CW project
+# Unit 4 CW project
 
 This is an e-commerce website clone that we made during the construct week at Masai School. It was completed within 5 days.
 
+
+# [Deployment Link](https://urobic-clone.netlify.app)
+
 ## *Tech stacks* :-
 <div style='display : flex ; gap : 5px ; margin-bottom : 50px'>
+
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968267.png' style='height : 45px ;  '>
 
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968242.png ' style='height : 45px ;  '>
@@ -23,7 +27,7 @@ This is an e-commerce website clone that we made during the construct week at Ma
 </div>
 
 
-## Author
+# Author
 
 - [@Jaimin Sheladiya](https://github.com/JaiminSheladiya) [ Student Code - fw18_0783 ]
 
@@ -64,14 +68,6 @@ The e-commerce website has the following pages and the order of flow is also the
 
 6.  You can find profile button over there it will me redirect to customer login page.
 
-## Men's , Women's , Kid's parts  - 
-
-1. Each products have their own landing page. In there you can found some pretty information like our designers or brands which we have in our websites. It also gives you a trending deals and products for that particular part. 
-
-2. Above of it you can find the different categories of the products. Like men's part has categories like watches , clothing , shoes , sneakers , bags , accessories etc. other 2 women's and kids have their related categories.   
-
-3. You can choose one of them and it will redirect you to their particular webpage . 
-
 ## Categories/Products page.  - 
 
 1. After clicking one of the categories you will be redirect to that particular category page . Suppose you choose kitchen , then you will be redirect to the home -> product -> kitchen.
@@ -81,11 +77,11 @@ The e-commerce website has the following pages and the order of flow is also the
 3. You can find their images for it.
 
 
-6. In left side of the page you can find filter option for it.It has 2 filter option price and color. 
+4. In left side of the page you can find filter option for it.It has 2 filter option price and color. 
 
-7. The range slider is working fine so you can select price range for the products and you will be get that filtered products by price.
+5. The range slider is working fine so you can select price range for the products and you will be get that filtered products by price.
 
-7. color filter is currently not working.
+6. color filter is currently not working.
 
 
 # Additional comments by Author -

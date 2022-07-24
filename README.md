@@ -14,7 +14,7 @@ This is an e-commerce website clone that we made during the construct week at Ma
 
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968267.png' style='height : 45px ;  '>
 
-<img src='https://cdn-icons-png.flaticon.com/128/5968/5968242.png ' style='height : 45px ;  '>
+<img src='https://cdn-icons-png.flaticon.com/128/888/888847.png ' style='height : 45px ;  '>
 
 <img src='https://cdn-icons-png.flaticon.com/128/5968/5968292.png' style='height : 45px ;  '>
 
@@ -81,7 +81,7 @@ The e-commerce website has the following pages and the order of flow is also the
 
 5. The range slider is working fine so you can select price range for the products and you will be get that filtered products by price.
 
-6. color filter is currently not working.
+. color filter is currently not working.
 
 
 # Additional comments by Author -

@@ -1,13 +1,14 @@
 import React from 'react'
 import { Flex } from '@chakra-ui/react'
 import {FaInstagram , FaFacebook} from 'react-icons/fa';
+import Review from './Review';
 export default function Footer() {
   return (
     <>
-    <div className=' h-96 mt-8 pt-12 text-white font-normal' style={{backgroundColor : '#9b870c'}}>
+    <div className=' h-auto mt-8 pt-12 text-white font-normal' style={{backgroundColor : '#9b870c'}}>
         <h1 className=' text-4xl'>What Our Customer Says</h1>
-        <h1>reviews div</h1>
-        <button className=' bg-amber-300 p-2 text-black font-normal rounded-md px-5 hover:bg-amber-200 mt-6'>
+        <Review />
+        <button className=' mb-28 bg-amber-300 p-2 text-black font-normal rounded-md px-5 hover:bg-amber-200 mt-6'>
             Add Your Review
         </button>
     </div>

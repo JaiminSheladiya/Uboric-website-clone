@@ -1,7 +1,5 @@
 # Urobic Clone
 
-<img src='https://www.uboric.com/wp-content/uploads/2021/04/uboric.svg' style='height : 200px;margin-bottom : 50px'>
-
 # Unit 4 CW project
 
 This is an e-commerce website clone that we made during the construct week at Masai School. It was completed within 5 days.
